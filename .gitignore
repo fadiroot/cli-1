@@ -5,6 +5,7 @@
 .envrc
 .idea
 # goimports is installed here if not available
+temp_auto_push.bat
 /.local/
 /site/
 coverage.txt
@@ -12,3 +13,5 @@ internal/*/built-example
 vendor
 /cmd/urfave-cli-genflags/urfave-cli-genflags
 *.exe
+.gitignore
+branch_structure.json
