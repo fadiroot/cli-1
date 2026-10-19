@@ -3,12 +3,9 @@
 *.orig
 .*envrc
 .envrc
-temp_auto_push.bat
 .idea
 /.local/
 /site/
 coverage.txt
 examples/*/built-example
 vendor
-.gitignore
-branch_structure.json
